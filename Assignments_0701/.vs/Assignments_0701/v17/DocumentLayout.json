@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\giraf\\Desktop\\Univ\\Robit\\prob\\0701\\Assignments_0701\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7C0EA019-AF12-4E6F-B3F9-1E04DE3B0BF8}|Assignments_0701.vcxproj|C:\\Users\\giraf\\Desktop\\Univ\\Robit\\prob\\0701\\Assignments_0701\\Assignment6.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7C0EA019-AF12-4E6F-B3F9-1E04DE3B0BF8}|Assignments_0701.vcxproj|solutionrelative:Assignment6.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C0EA019-AF12-4E6F-B3F9-1E04DE3B0BF8}|Assignments_0701.vcxproj|C:\\Users\\giraf\\Desktop\\Univ\\Robit\\prob\\0701\\Assignments_0701\\Assignment5.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7C0EA019-AF12-4E6F-B3F9-1E04DE3B0BF8}|Assignments_0701.vcxproj|solutionrelative:Assignment5.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C0EA019-AF12-4E6F-B3F9-1E04DE3B0BF8}|Assignments_0701.vcxproj|C:\\Users\\giraf\\Desktop\\Univ\\Robit\\prob\\0701\\Assignments_0701\\Assignment7.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7C0EA019-AF12-4E6F-B3F9-1E04DE3B0BF8}|Assignments_0701.vcxproj|solutionrelative:Assignment7.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C0EA019-AF12-4E6F-B3F9-1E04DE3B0BF8}|Assignments_0701.vcxproj|C:\\Users\\giraf\\Desktop\\Univ\\Robit\\prob\\0701\\Assignments_0701\\Assignment4.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7C0EA019-AF12-4E6F-B3F9-1E04DE3B0BF8}|Assignments_0701.vcxproj|solutionrelative:Assignment4.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C0EA019-AF12-4E6F-B3F9-1E04DE3B0BF8}|Assignments_0701.vcxproj|C:\\Users\\giraf\\Desktop\\Univ\\Robit\\prob\\0701\\Assignments_0701\\Assignment3.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7C0EA019-AF12-4E6F-B3F9-1E04DE3B0BF8}|Assignments_0701.vcxproj|solutionrelative:Assignment3.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C0EA019-AF12-4E6F-B3F9-1E04DE3B0BF8}|Assignments_0701.vcxproj|C:\\Users\\giraf\\Desktop\\Univ\\Robit\\prob\\0701\\Assignments_0701\\Assignment2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7C0EA019-AF12-4E6F-B3F9-1E04DE3B0BF8}|Assignments_0701.vcxproj|solutionrelative:Assignment2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C0EA019-AF12-4E6F-B3F9-1E04DE3B0BF8}|Assignments_0701.vcxproj|C:\\Users\\giraf\\Desktop\\Univ\\Robit\\prob\\0701\\Assignments_0701\\Assignment1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7C0EA019-AF12-4E6F-B3F9-1E04DE3B0BF8}|Assignments_0701.vcxproj|solutionrelative:Assignment1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Assignment1.c",
+              "DocumentMoniker": "C:\\Users\\giraf\\Desktop\\Univ\\Robit\\prob\\0701\\Assignments_0701\\Assignment1.c",
+              "RelativeDocumentMoniker": "Assignment1.c",
+              "ToolTip": "C:\\Users\\giraf\\Desktop\\Univ\\Robit\\prob\\0701\\Assignments_0701\\Assignment1.c",
+              "RelativeToolTip": "Assignment1.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-07-01T06:56:48.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Assignment2.c",
+              "DocumentMoniker": "C:\\Users\\giraf\\Desktop\\Univ\\Robit\\prob\\0701\\Assignments_0701\\Assignment2.c",
+              "RelativeDocumentMoniker": "Assignment2.c",
+              "ToolTip": "C:\\Users\\giraf\\Desktop\\Univ\\Robit\\prob\\0701\\Assignments_0701\\Assignment2.c",
+              "RelativeToolTip": "Assignment2.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-07-01T09:43:03.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Assignment3.c",
+              "DocumentMoniker": "C:\\Users\\giraf\\Desktop\\Univ\\Robit\\prob\\0701\\Assignments_0701\\Assignment3.c",
+              "RelativeDocumentMoniker": "Assignment3.c",
+              "ToolTip": "C:\\Users\\giraf\\Desktop\\Univ\\Robit\\prob\\0701\\Assignments_0701\\Assignment3.c",
+              "RelativeToolTip": "Assignment3.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-07-01T07:10:07.01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Assignment4.c",
+              "DocumentMoniker": "C:\\Users\\giraf\\Desktop\\Univ\\Robit\\prob\\0701\\Assignments_0701\\Assignment4.c",
+              "RelativeDocumentMoniker": "Assignment4.c",
+              "ToolTip": "C:\\Users\\giraf\\Desktop\\Univ\\Robit\\prob\\0701\\Assignments_0701\\Assignment4.c",
+              "RelativeToolTip": "Assignment4.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-07-01T06:57:16.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Assignment5.c",
+              "DocumentMoniker": "C:\\Users\\giraf\\Desktop\\Univ\\Robit\\prob\\0701\\Assignments_0701\\Assignment5.c",
+              "RelativeDocumentMoniker": "Assignment5.c",
+              "ToolTip": "C:\\Users\\giraf\\Desktop\\Univ\\Robit\\prob\\0701\\Assignments_0701\\Assignment5.c",
+              "RelativeToolTip": "Assignment5.c",
+              "ViewState": "AQIAAA0AAAAAAAAAAADwvx4AAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-07-01T11:19:25.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Assignment6.c",
+              "DocumentMoniker": "C:\\Users\\giraf\\Desktop\\Univ\\Robit\\prob\\0701\\Assignments_0701\\Assignment6.c",
+              "RelativeDocumentMoniker": "Assignment6.c",
+              "ToolTip": "C:\\Users\\giraf\\Desktop\\Univ\\Robit\\prob\\0701\\Assignments_0701\\Assignment6.c",
+              "RelativeToolTip": "Assignment6.c",
+              "ViewState": "AQIAAAMAAAAAAAAAAADwvwkAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-07-01T10:20:45.413Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Assignment7.c",
+              "DocumentMoniker": "C:\\Users\\giraf\\Desktop\\Univ\\Robit\\prob\\0701\\Assignments_0701\\Assignment7.c",
+              "RelativeDocumentMoniker": "Assignment7.c",
+              "ToolTip": "C:\\Users\\giraf\\Desktop\\Univ\\Robit\\prob\\0701\\Assignments_0701\\Assignment7.c",
+              "RelativeToolTip": "Assignment7.c",
+              "ViewState": "AQIAABMAAAAAAAAAAADwvzMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-07-01T08:30:40.353Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
